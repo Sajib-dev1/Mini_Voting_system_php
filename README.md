@@ -29,12 +29,12 @@ This project is a PHP voting system. One commissioner was created. Canditor crea
 
 
 ## Technologies Used
-<h4>PHP</h4>
+<h2>PHP</h2>
 <p>session create</p>
 <p>Include data</p>
 <p>php validation</p>
 <p>curd option</p>
-
+<hr>
 <p>MySQL (or any other database)</p>
 <p>HTML/CSS (if applicable)</p>
 <p>JavaScript (if applicable)</p>
