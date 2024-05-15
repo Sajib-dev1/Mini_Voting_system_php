@@ -39,10 +39,13 @@ This project is a PHP voting system. One commissioner was created. Canditor crea
 <p>HTML/CSS (if applicable)</p>
 <p>JavaScript (if applicable)</p>
 
+<pre>
 
-## Security Vulnerabilities
+  Your Name - sajib03.dev@gmail.com
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+  Project Link: https://github.com/Sajib-dev1/Mini_Voting_system_php
+  
+</pre>
 
 ## License
 
