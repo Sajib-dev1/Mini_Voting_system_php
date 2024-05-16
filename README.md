@@ -10,7 +10,7 @@
 
 
 
-<h4><a href="https://drive.google.com/drive/u/0/folders/1xlJBmhz44QGVx5Y0kRbM6xnMAl7rnP7D" target="_blank">show this website image screenshot</a></h4>
+<h4><a href="https://drive.google.com/drive/folders/1xlJBmhz44QGVx5Y0kRbM6xnMAl7rnP7D?usp=sharing" target="_blank">show this website image screenshot</a></h4>
 <h4><a href="https://drive.google.com/drive/u/0/folders/1A59C-Nv1LmUmYbz8iVDlnnNLHTDQvw9s" target="_blank">SQL File Link</a></h4>
 
 ## About This Votting php project
